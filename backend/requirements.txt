@@ -1,0 +1,4 @@
+Django==4.2
+sqlite==3.36.0
+requests==2.26.0
+numpy==1.21.2
